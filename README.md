@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository is my first homework assignment using Tableau.  For best results, click the Download button in the right corner of this link https://public.tableau.com/shared/F4DYHND8Y?:toolbar=n&:display_count=y&:origin=viz_share_link and open in your desktop version of Tableau. Otherwise, you may view the dashboards directly from the link, but some text and graphs are cut off, not displayed exactly as designed, and slow to function.  For those not wishing to view in Tableau, I have included static images from three of the six dashboards - Growth, When, and Where - created in my story. (Note that hover and on-click functionality will not work on static images.) 
+This repository is my first homework assignment using Tableau.  For best results, click the Download button in the right corner of this link https://public.tableau.com/shared/F4DYHND8Y?:toolbar=n&:display_count=y&:origin=viz_share_link and open in your desktop version of Tableau. **Note the data contains nearly 15 million rows and takes some time to download.** Otherwise, you may view the dashboards directly from the link, but some text and graphs are cut off, not displayed exactly as designed, and slow to function.  For those not wishing to view in Tableau, I have included static images from three of the six dashboards - Growth, When, and Where - created in my story. (Note that hover and on-click functionality will not work on static images.) 
 
 ![](resources/images/growth.png)
 ![](resources/images/when.png)
